@@ -1,0 +1,27 @@
+
+body {
+  background-color: white;
+  color: black;
+  font-size: 1.2em;
+}
+h1 {
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+  front-size:1.2em;
+}
+label
+{
+    font-weight: bold;
+  color: purple ;
+  text-transform: uppercase;
+  front-size:1.2em;
+}
+p{
+    font-weight: bold;
+  color: spacecolor;
+  text-transform: uppercase;
+  front-size:1.2em;
+}
+
+    
